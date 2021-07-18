@@ -2,7 +2,7 @@
 - I’m a Doctoral Researcher at Brunel University London 
   completing my PhD in the division of Biosciences within 
   the Rudolph Laboratory.
-- I’m currently interested in chromosome dynamics in E. coli
+- I’m currently interested using R for genomic bioinformatics analysis 
 - How to reach me: Daniel.Goodall@brunel.ac.uk
 
 <!---
